@@ -24,7 +24,9 @@ ce problème dans la classe « Time Series Forcasting », une classe très impor
 et délicate dans le domaine du Machine Learning.
 
 <br>
-<a href="https://www.kaggle.com/c/rossmann-store-sales/data">Lien vers les données</a>
+<a target="_blank" href="https://www.kaggle.com/c/rossmann-store-sales/data">Lien vers les données</a>
+
+
 <h1>Analyse de données</h1>
 <h2>Matrice de Corrélation</h2>
 <p align="center">
