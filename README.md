@@ -94,8 +94,30 @@ années.
 <p align="center">
   LSTM
   <br><br>
-  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/lstm.jpg" width="350" title="hover text">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/lstm.jpg" width="450" title="hover text">
 </p>
+
+
+<h2>Algorithmes</h2>
+<h2>K-Nearest Neighbors Regressor</h2>
+<p>
+Les K voisins les plus proches est un algorithme d’apprentissage automatique
+simple qui prévoit une cible numérique ou catégorique en fonction d’une mesure
+de similarité (par exemple, des fonctions de distance) selon une valeur précise de
+nombre de voisin à prendre en considération.
+Une implémentation simple de la régression KNN consiste à calculer la moyenne
+de la cible numérique des K plus proches voisins. Une autre approche utilise
+une moyenne pondérée en fonction de la distance inverse des K voisins les plus
+proches.
+</p>
+<p align="center">
+  KNN
+  <br><br>
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/J5r01.png" width="450" title="hover text">
+</p>
+
+
+
 <h1>Performance</h1> 
 <h2>Accuracy</h2>
 Accuracy = # prédictions correctes / # prédictions totales
