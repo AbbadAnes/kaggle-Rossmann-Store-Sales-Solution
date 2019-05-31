@@ -127,14 +127,14 @@ proches.
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/hey.PNG"  title="hover text">
 </p>
-<h2>Courbes d'apprentissage</h2>
 
 <h2>Comment utiliser le code ?</h2>
 1. Clonez le projet et decompressez code.rar
 <br>
-2. Dans le dossier R vous trouverez les scripts nécessaires pour récuperer les données à partir de la platforme TCGA
+2. Dans le dossier Dataset vous trouverez les dataset du projet
 <br>
-3. Dans le dossier Python vous trouvez un fichier visualisation.py pour visulaiser les données, et un deuxième fichier implementation.py qui contient toutes les étapes de la réalisation du projet.
+3. vous trouvez un fichier code.py pour visulaiser les données et toutes les étapes de la réalisation du projet.
 <h2>Contribution et Remerciement</h2>
 <h3>Projet réalisé par :</h3>
 - Anes Abdelfatah ABBAD.
+- Amira KETFI
