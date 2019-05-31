@@ -78,11 +78,23 @@ Cet algorithme nous a validé les variables suivantes :
 </p>
 
 <h1>Apprentissage</h1>
-<h2>Algorithme utilisé</h2>
+<h2>Réseaux de neuronnes</h2>
+<h2>LSTM</h2>
+<p>
+ Il s’agit d’un réseau de neurones récurrent, très efficace pour résoudre les problèmes les plus difficiles. En effet, ce type de réseaux de neurones a la capacité
+de prédire plusieurs sorties au même temps. De plus, son architecture lui permet
+d’utiliser les sorties relatives à des moments passés dans la prédiction des sorties
+relatives aux moments futurs. Cette caractéristique, le rend très efficace pour les
+problèmes Timeseries Forcasting.
+Les LSTMs sont le type le plus populaire des réseaux de neurones récurrents
+car ils ont apporté une solution simple et efficace au problème du « Vanshing
+Gradient » qui a ralenti l’évolution des réseaux de neurones récurent pour des
+années.
+</p>
 <p align="center">
-  SVM ( Support Vector Machine )
+  LSTM
   <br><br>
-  <img src="https://zestedesavoir.com/media/galleries/3985/5128cf36-de17-4ebb-9495-90c9d85f006f.png" width="350" title="hover text">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/lstm.jpg" width="350" title="hover text">
 </p>
 <h1>Performance</h1> 
 <h2>Accuracy</h2>
