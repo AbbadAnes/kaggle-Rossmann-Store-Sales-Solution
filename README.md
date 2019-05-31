@@ -12,7 +12,7 @@ Le but de ce projet, est de construire, comparer et évaluer des modèles permet
 de prédire au mieux les ventes de 1115 magasins « Rossmann ».
 
 <h2> Outils : </h2>
-Python ( Sickit-Learn )
+Python : Sickit-Learn, Keras, Matplotlib, Pandas, Numpy
 <h2>Données</h2>
 Le jeu de données, provenant de Kaggle 1
 , est une combinaison de données chronologiques et d’une grande variété de fonctionnalités. On a récupéré deux jeux
