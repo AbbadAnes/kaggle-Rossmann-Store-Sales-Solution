@@ -14,12 +14,43 @@ de prédire au mieux les ventes de 1115 magasins « Rossmann ».
 <h2> Outils : </h2>
 Python ( Sickit-Learn )
 <h2>Données</h2>
-56,000 gènes
-6700 Patients
+Le jeu de données, provenant de Kaggle 1
+, est une combinaison de données chronologiques et d’une grande variété de fonctionnalités. On a récupéré deux jeux
+de données (Train.csv et Store.csv) et un jeu de données test (test.csv) dont nous
+devons prédire les ventes.
+Chaque jeu de données contient des données historiques sur les ventes de la série
+chronologique de 1 115 magasins Rossmann, sur une période allant du 1er janvier 2013 au 31 juillet 2015, avec près de 1 017 209 observations, ce qui catégorise
+ce problème dans la classe « Time Series Forcasting », une classe très importante
+et délicate dans le domaine du Machine Learning.
+
+<br>
+<a href="https://www.kaggle.com/c/rossmann-store-sales/data">Lien vers les données</a>
 <h1>Analyse de données</h1>
-<h2>Analyse de la variance ( ANOVA )</h2>
+<h2>Matrice de Corrélation</h2>
+<p align="center">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/corr.jpg"  width="70%" title="hover text">
+</p>
 <p> 
- En utilisant le test statistique ANOVA nous avons réussi à extraire les meilleurs
+ La matrice de corrélation ci-dessous montre la corrélation entre les différentes caractéristiques des données d’apprentissage.
+Comme on peut le constater, les ventes sont fortement influencées par les promo- tions en cours, la semaine et les jours fériés, ainsi que par la corrélation évidente entre les ventes et le nombre de clients et le fait que le magasin soit ouvert ou non.
+</p>
+
+<h2>Relation entre Promo et les ventes/h2>
+<p> 
+Le graphique ci-dessous=indique la moyenne des ventes (dans tous les maga- sins) les jours avec ou sans promotions.
+L’effet de la promotion sur les ventes est clairement évident, la promotion ayant un effet fortement positif sur celle ci.
+</p>
+
+<p align="https://storage.googleapis.com/kainofreelancerpictures/anes/Page-12-Image-5.jpg"  width="70%" title="hover text">
+</p>
+
+
+<h2>Les clients est une information très importante</h2>
+<p align="center">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/Page-12-Image-6.jpg"  title="hover text">
+</p>
+<p> 
+Le graphique ci-dessus montre la relation entre les ventes et les clients. Nous remarquons que le les ventes et clients sont fortement corrélés.
 </p>
 
 
