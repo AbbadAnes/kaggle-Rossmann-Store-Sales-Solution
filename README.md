@@ -133,7 +133,7 @@ proches.
 <br>
 2. Dans le dossier Dataset vous trouverez les dataset du projet
 <br>
-3. vous trouvez un fichier code.py pour visulaiser les données et toutes les étapes de la réalisation du projet.
+3. vous trouvez un fichier code.py pour visualiser les données et toutes les étapes de la réalisation du projet.
 <h2>Contribution et Remerciement</h2>
 <h3>Projet réalisé par :</h3>
 - Anes Abdelfatah ABBAD.
