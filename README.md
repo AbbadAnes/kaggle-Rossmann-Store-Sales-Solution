@@ -3,19 +3,14 @@
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/front_page.png" width="50%" title="logo">
 </p>
-Certains gènes, qui jouent un rôle ordinaire tout au long de notre vie, peuvent
-muter. Ce dérèglement suffit à l’apparition des cellules cancéreuses, ce qui rend
+Rossmann exploite plus de 3 000 pharmacies dans 7 pays européens. Les directeurs de magasin Rossmann sont actuellement chargés de prévoir leurs ventes
+quotidiennes jusqu’à six semaines à l’avance. Les ventes en magasin sont influencées par de nombreux facteurs, notamment les promotions, la concurrence, les
+vacances scolaires, les saisons et la localité. Sans que les gestionnaires individuels
+prédisent les ventes en fonction de leurs circonstances particulières, la précision
+des résultats peut varier considérablement.
+Le but de ce projet, est de construire, comparer et évaluer des modèles permettant
+de prédire au mieux les ventes de 1115 magasins « Rossmann ».
 
-l’expression génétique un élément très important dans le diagnostique des mala-
-dies néoplasiques.
-
-Aujourd’hui il est possible de prédire le type des cellules cancéreuses en se basant
-sur leurs expressions génétiques, or les tumeurs produisent une énorme quantité
-de gènes, ce qui rend la classification de ces dernières difficile.
-Le but du projet consiste à compléter les diagnostics cliniques en classifiant les
-
-tumeurs cancéreuses à partir de leurs expressions génétiques, en utilisant les mé-
-thodes statistiques et d’apprentissage automatique.
 <h2> Outils : </h2>
 Python ( Sickit-Learn )
 <h2>Données</h2>
