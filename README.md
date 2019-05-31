@@ -43,7 +43,7 @@ Le graphique ci-dessous=indique la moyenne des ventes (dans tous les maga- sins)
 L’effet de la promotion sur les ventes est clairement évident, la promotion ayant un effet fortement positif sur celle ci.
 </p>
 <p align="center">
-  <img src=""https://storage.googleapis.com/kainofreelancerpictures/anes/Page-12-Image-5.jpg"  title="hover text">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/Page-12-Image-5.jpg"  title="hover text">
 </p>
 
 
