@@ -56,6 +56,27 @@ Le graphique ci-dessus montre la relation entre les ventes et les clients. Nous 
 </p>
 
 
+<h1>Séléction de variables</h1>
+<p align="center">
+  L’Analyse de donnée n’est souvent pas suffisante pour choisir les variables à choisir lors des prédictions. Les Data-Scientists et les statisticiens ont opté pour d’autres méthodes additionnelles afin de s’assurer de la qualité des variables in- dépendantes et ne laisser que les variables les plus significatives pour prédire la variable dépendante. La méthode la plus simple et la plus efficace est Backward- elimination :
+<br>
+1.	Fixer un seuil de significativité pour rester dans le modèle (ici 0,01).
+<br>
+2.	Construire le modèle avec toutes les variables possibles.
+<br>
+3.	Prendre le prédicteur qui a le plus grand p-value si p-value > seuil passer à 4 sinon passer à 5.
+<br>
+4.	Enlever le prédicteur, recréer le modèle sans le prédicteur, recalculer les p- values revenir à 3.
+<br>
+5.	Le modèle est Prêt.
+<br>
+Cet algorithme nous a validé les variables suivantes :
+ <br><br>
+<p align="center">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/pval.PNG" width="350" title="hover text">
+</p>
+</p>
+
 <h1>Apprentissage</h1>
 <h2>Algorithme utilisé</h2>
 <p align="center">
