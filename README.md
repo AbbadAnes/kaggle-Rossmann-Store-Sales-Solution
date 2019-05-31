@@ -29,7 +29,7 @@ As we can see, sales are strongly influenced by current promotions, weekdays and
 
 <h2>Relationship between Promo and Sales</h2>
 <p>
-The graph below shows the average sales (in all stores) on days with or without promotions.
+The graph below shows the average sales (in all stores) on days with or without promotions
 The effect of the promotion on sales is clearly evident, the promotion having a strongly positive effect on it.
 </p>
 <p align="center">
