@@ -37,13 +37,13 @@ et délicate dans le domaine du Machine Learning.
 Comme on peut le constater, les ventes sont fortement influencées par les promo- tions en cours, la semaine et les jours fériés, ainsi que par la corrélation évidente entre les ventes et le nombre de clients et le fait que le magasin soit ouvert ou non.
 </p>
 
-<h2>Relation entre Promo et les ventes/h2>
+<h2>Relation entre Promo et les ventes</h2>
 <p> 
 Le graphique ci-dessous=indique la moyenne des ventes (dans tous les maga- sins) les jours avec ou sans promotions.
 L’effet de la promotion sur les ventes est clairement évident, la promotion ayant un effet fortement positif sur celle ci.
 </p>
-
-<p align="https://storage.googleapis.com/kainofreelancerpictures/anes/Page-12-Image-5.jpg"  width="70%" title="hover text">
+<p align="center">
+  <img src=""https://storage.googleapis.com/kainofreelancerpictures/anes/Page-12-Image-5.jpg"  title="hover text">
 </p>
 
 
