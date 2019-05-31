@@ -119,10 +119,14 @@ proches.
 
 
 <h1>Performance</h1> 
-<h2>Accuracy</h2>
-Accuracy = # prédictions correctes / # prédictions totales
+<h2>Root Mean Square Percentage Error</h2>
+<p align="center">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/hey2.PNG"  title="hover text">
+</p>
 <br>
-<strong> Accuracy = 98% </strong>
+<p align="center">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/hey.PNG"  title="hover text">
+</p>
 <h2>Courbes d'apprentissage</h2>
 
 <h2>Comment utiliser le code ?</h2>
