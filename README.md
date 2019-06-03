@@ -27,7 +27,7 @@ The correlation matrix above shows the correlation between the different feature
 As we can see, sales are strongly influenced by current promotions, weekdays and holidays, as well as by the obvious correlation between sales and the number of customers.
 </p>
 
-<h2>Relationship between Promo and Sales</h2>
+<h2>Relationship between Promo and Sales :</h2>
 <p>
 The graph below shows the average sales (in all stores) on days with or without promotions
 The effect of the promotion on sales is clearly evident, the promotion having a strongly positive effect on it.
