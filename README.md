@@ -14,7 +14,7 @@ Python : Sickit-Learn, Keras, Matplotlib, Pandas, Numpy
 The dataset, from Kaggle, is a combination of historical data and a wide variety of features. We got two datasets (Train.csv and Store.csv) and a test data set (test.csv) that we must predict sales.
 Each dataset contains historical sales data for 11,115 Rossmann stores, over a period from January 1, 2013 to July 31, 2015, with close to 1,017,209 observations, categorizing this problem in the "Time Series Forcasting" class, a very important class and delicate in the field of Machine Learning.
 <br>
-<a target="_blank" href="https://www.kaggle.com/c/rossmann-store-sales/data">Lien vers les données</a>
+<a target="_blank" href="https://www.kaggle.com/c/rossmann-store-sales/data">Link to get datas</a>
 
 
 <h1>Data Analysis</h1>
@@ -48,7 +48,7 @@ The graph above shows the relationship between sales and customers. We notice th
 
 <h1>Features Selection</h1>
 <p>
-Data analysis is often not enough to choose the variables to use for predictions. Data-Scientists and statisticians have opted for other additional methods to ensure the quality of the dependent variables and leave only the most significant variables to predict the dependent variable. The simplest and most effective method is Backward-elimination:
+Data analysis is often not enough to get the final variables to use for predictions. Data-Scientists and statisticians have opted for other additional methods to ensure the quality of the dependent variables and leave only the most significant variables to predict the dependent variable. The simplest and most effective method is Backward-elimination:
 <br>
 1. Set a threshold of significance to stay in the model (here 0.01).
 <br>
@@ -71,7 +71,7 @@ This algorithm validated the following variables:
 <h2>Neural Networks</h2>
 <h2>LSTM</h2>
 <p>
-It is a recurrent neural network, very effective in solving the most difficult problems. Indeed, this type of neural networks has the capacity to predict multiple outputs at the same time. In addition, its architecture allows it
+It's a recurrent neural network, very effective in solving the most difficult problems. Indeed, this type of neural networks has the capacity to predict multiple outputs at the same time. In addition, its architecture allows it
 to use the outputs relating to past moments in the prediction of the outputs future moments. This feature makes it very effective for
 Forcasting Timeseries issues.
 LSTMs are the most popular type of recurrent neural networks
@@ -88,7 +88,7 @@ Gradient "which has slowed down the evolution of recurrent neural networks for y
 <h2>Algorithms</h2>
 <h2>K-Nearest Neighbors Regressor</h2>
 <p>
-The K nearest neighbors is a very simple machine learning algorithm that provides a numerical or categorical target according to a measure of similarity (for example, distance functions) according to a specific value of number of neighbors to consider. A simple implementation of KNN regression is to calculate the average of the digital target of the K nearest neighbors. Another approach uses a weighted average based on the inverse distance of the nearest K neighbors relatives.
+The K nearest neighbors is a very simple machine learning algorithm that provides a numerical or categorical target according to a measure of similarity (for example, distance functions) according to a specific value of number of neighbors to consider. A simple implementation of KNN regression is to calculate the average of the digital target of the K nearest neighbors.
 </p>
 <p align="center">
   KNN
@@ -109,7 +109,7 @@ The K nearest neighbors is a very simple machine learning algorithm that provide
 </p>
 
 <h2>How to use the code ?</h2>
-1. Clone the project and uncompress code.rar
+1. Clone the project and unzip code.rar
 <br>
 2. In the Dataset folder you will find the dataset of the project
 <br>
